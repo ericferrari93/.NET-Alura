@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\ericf\\onedrive\\\u00E1rea de trabalho\\.net-alura\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\c# consumindo api, gravando arquivos e utilizando o linq\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\ericf\\onedrive\\\u00E1rea de trabalho\\.net-alura\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\c# consumindo api, gravando arquivos e utilizando o linq\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|c:\\users\\ericf\\onedrive\\\u00E1rea de trabalho\\.net-alura\\aprenda a programar em c# com orienta\u00E7\u00E3o a objetos\\c# consumindo api, gravando arquivos e utilizando o linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345AEAFA-C682-4F3F-8E17-FB58F6612766}|ScreenSound-04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:33:08.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicasPreferidas.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Modelos\\MusicasPreferidas.cs",
+              "RelativeDocumentMoniker": "Modelos\\MusicasPreferidas.cs",
+              "ToolTip": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Modelos\\MusicasPreferidas.cs",
+              "RelativeToolTip": "Modelos\\MusicasPreferidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:33:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\ericf\\OneDrive\\\u00C1rea de Trabalho\\.NET-Alura\\Aprenda a programar em C# com Orienta\u00E7\u00E3o a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Filtros\\LinqFilter.cs",
+              "RelativeToolTip": "Filtros\\LinqFilter.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:33:08.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
